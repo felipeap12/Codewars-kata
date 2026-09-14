@@ -1,0 +1,7 @@
+public class Kata
+{
+    public static double Square(double n)
+    {
+        return n * n;
+    }
+}
